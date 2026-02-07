@@ -27,8 +27,8 @@ It demonstrates the basic workflow of recruitment systems used in modern web app
 ## Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Java / Node.js *(update if required)*  
-- **Database:** MySQL / MongoDB *(update if required)*  
+- **Backend:** Java / Node.js 
+- **Database:** MySQL / MongoDB 
 - **Tools:** Git, GitHub  
 
 ---
