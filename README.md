@@ -5,14 +5,14 @@ Job seekers can search and apply for jobs, while recruiters can post job opening
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project is developed as a **college project** to understand how real-world job portals work.  
 It demonstrates the basic workflow of recruitment systems used in modern web applications.
 
 ---
 
-## 🚀 Features
+## Features
 
 - User Registration & Login
 - Job Seeker and Recruiter roles
@@ -24,7 +24,7 @@ It demonstrates the basic workflow of recruitment systems used in modern web app
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Java / Node.js *(update if required)*  
@@ -33,7 +33,7 @@ It demonstrates the basic workflow of recruitment systems used in modern web app
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 jobportal/
 │
@@ -48,7 +48,7 @@ jobportal/
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 1. Clone the repository:
    ```bash
